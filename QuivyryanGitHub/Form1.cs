@@ -15,6 +15,7 @@ namespace QuivyryanGitHub
         public Form1()
         {
             InitializeComponent();
+            //een kleine test
         }
 
         private void button1_Click(object sender, EventArgs e)
