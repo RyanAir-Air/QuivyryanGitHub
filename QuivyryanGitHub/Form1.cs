@@ -21,6 +21,7 @@ namespace QuivyryanGitHub
         private void button1_Click(object sender, EventArgs e)
         {
         //aanpassing
+        //aanpassing van timothy
         }
     }
 }
