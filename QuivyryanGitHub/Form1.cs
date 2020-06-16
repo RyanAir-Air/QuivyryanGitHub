@@ -15,6 +15,7 @@ namespace QuivyryanGitHub
         public Form1()
         {
             InitializeComponent();
+            //een kleine test
         }
     }
 }
